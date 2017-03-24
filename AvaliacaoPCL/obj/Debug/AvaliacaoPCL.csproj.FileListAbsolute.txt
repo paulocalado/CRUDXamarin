@@ -1,0 +1,5 @@
+C:\Users\Paulo\documents\visual studio 2017\Projects\AvaliacaoSegsat\AvaliacaoPCL\bin\Debug\AvaliacaoPCL.dll
+C:\Users\Paulo\documents\visual studio 2017\Projects\AvaliacaoSegsat\AvaliacaoPCL\bin\Debug\AvaliacaoPCL.pdb
+C:\Users\Paulo\documents\visual studio 2017\Projects\AvaliacaoSegsat\AvaliacaoPCL\obj\Debug\AvaliacaoPCL.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\documents\visual studio 2017\Projects\AvaliacaoSegsat\AvaliacaoPCL\obj\Debug\AvaliacaoPCL.dll
+C:\Users\Paulo\documents\visual studio 2017\Projects\AvaliacaoSegsat\AvaliacaoPCL\obj\Debug\AvaliacaoPCL.pdb
